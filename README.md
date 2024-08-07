@@ -30,18 +30,21 @@ Ini adalah aplikasi web responsif sederhana yang dibangun dengan React dan Vite 
 
 2. Install dependencies
 
-```npm install
+```bash
+npm install
 
 ```
 
 3. Running project
 
-```npm run dev
+```bash
+npm run dev
 
 ```
 
 4. Open in web browser
 
-```http://localhost:5173
+```bash
+http://localhost:5173
 
 ```
