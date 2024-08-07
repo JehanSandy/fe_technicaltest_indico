@@ -24,5 +24,14 @@ Ini adalah aplikasi web responsif sederhana yang dibangun dengan React dan Vite 
 1. Clone repository:
 
    ```bash
+   git clone https://github.com/JehanSandy/fe_technicaltest_indico.git
 
    ```
+
+2. Install dependencies
+
+````npm install
+3. Running project
+``` npm run dev
+Open in http://localhost:5173
+````
